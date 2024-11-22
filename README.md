@@ -3,7 +3,7 @@ This is an web scraping bot that automates the process of job applications on Li
 
 
 ## 📽️ See it in Action
-[![Auto Job Applier demo video](https://github.com/GodsScion/Auto_job_applier_linkedIn/assets/100998531/429f7753-ebb0-499b-bc5e-5b4ee28c4f69)](https://youtu.be/gMbB1fWZDHw)
+[![Auto Job Applier demo video](https://github.com/Bhanudeep/Automated-LinkedIn-job-applier-bot/assets/100998531/429f7753-ebb0-499b-bc5e-5b4ee28c4f69)](https://youtu.be/gMbB1fWZDHw)
 Click on above image to watch the demo or use this link https://youtu.be/gMbB1fWZDHw
 
 
@@ -30,7 +30,7 @@ Click on above image to watch the demo or use this link https://youtu.be/gMbB1fW
   pip install undetected-chromedriver pyautogui setuptools
   ```
 3. Download and install latest version of [Google Chrome](https://www.google.com/chrome) in it's default location, visit https://www.google.com/chrome to download it's installer.
-4. Clone the current git repo or download it as a zip file, url to the latest update https://github.com/GodsScion/Auto_job_applier_linkedIn.
+4. Clone the current git repo or download it as a zip file, url to the latest update https://github.com/Bhanudeep/Automated-LinkedIn-job-applier-bot.
 5. (Not needed if you set `stealth_mode = True` in `config/settings.py` ) Download and install the appropriate [Chrome Driver](https://googlechromelabs.github.io/chrome-for-testing/) for Google Chrome and paste it in the location Chrome was installed, visit https://googlechromelabs.github.io/chrome-for-testing/ to download.
   <br> <br>
   ***OR*** 
@@ -198,7 +198,7 @@ With heartfelt appreciation, <br>
 
 ## 📜 Disclaimer
 
-**This program is for educational purposes only. By downloading, using, copying, replicating, or interacting with this program or its code, you acknowledge and agree to abide by all the Terms, Conditions, Policies, and Licenses mentioned, which are subject to modification without prior notice. The responsibility of staying informed of any changes or updates bears upon yourself. For the latest Terms & Conditions, Licenses, or Policies, please refer to [Auto Job Applier](https://github.com/GodsScion/Auto_job_applier_linkedIn). Additionally, kindly adhere to and comply with LinkedIn's terms of service and policies pertaining to web scraping. Usage is at your own risk. The creators and contributors of this program emphasize that they bear no responsibility or liability for any misuse, damages, or legal consequences resulting from its usage.**
+**This program is for educational purposes only. By downloading, using, copying, replicating, or interacting with this program or its code, you acknowledge and agree to abide by all the Terms, Conditions, Policies, and Licenses mentioned, which are subject to modification without prior notice. The responsibility of staying informed of any changes or updates bears upon yourself. For the latest Terms & Conditions, Licenses, or Policies, please refer to [Auto Job Applier](https://github.com/Bhanudeep/Automated-LinkedIn-job-applier-bot). Additionally, kindly adhere to and comply with LinkedIn's terms of service and policies pertaining to web scraping. Usage is at your own risk. The creators and contributors of this program emphasize that they bear no responsibility or liability for any misuse, damages, or legal consequences resulting from its usage.**
 
 
 ## 🏛️ Terms and Conditions
@@ -240,13 +240,13 @@ See [AGPLv3 LICENSE](LICENSE) for more info.
 ## 🙌 Community Support and Discussions
 - **Discord Server** : https://discord.gg/fFp7uUzWCY
 - **GitHub**
-    - [All Discussions](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions)
-    - [Announcements](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/announcements)
-    - [General](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/general)
-    - [Feature requests or Ideas](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/feature-requests-or-ideas)
-    - [Polls](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/polls)
-    - [Community Flex](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/community-flex)
-    - [Support Q&A](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/support-q-a)
+    - [All Discussions](https://github.com/Bhanudeep/Automated-LinkedIn-job-applier-bot/discussions)
+    - [Announcements](https://github.com/Bhanudeep/Automated-LinkedIn-job-applier-bot/discussions/categories/announcements)
+    - [General](https://github.com/Bhanudeep/Automated-LinkedIn-job-applier-bot/discussions/categories/general)
+    - [Feature requests or Ideas](https://github.com/Bhanudeep/Automated-LinkedIn-job-applier-bot/discussions/categories/feature-requests-or-ideas)
+    - [Polls](https://github.com/Bhanudeep/Automated-LinkedIn-job-applier-bot/discussions/categories/polls)
+    - [Community Flex](https://github.com/Bhanudeep/Automated-LinkedIn-job-applier-bot/discussions/categories/community-flex)
+    - [Support Q&A](https://github.com/Bhanudeep/Automated-LinkedIn-job-applier-bot/discussions/categories/support-q-a)
 
 ---
 
